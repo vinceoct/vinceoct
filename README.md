@@ -12,7 +12,7 @@ Python
 Django
 Projects
 
-##Projects
+## Projects
 
 flŭd
 Description: Color based strategy/puzzle game built with vanilla JS
