@@ -15,7 +15,7 @@ Projects
 ## Projects
 
 flŭd 
--------
+
 Color based strategy/puzzle game built with vanilla JS
 
 Tech Stack: HTML | CSS | JS
@@ -23,7 +23,7 @@ Tech Stack: HTML | CSS | JS
 [GitHub Repository](https://github.com/vinceoct/flud)
 
 Samplr
--------
+
 App that allows users to sample different audio effects for bass guitar. 
 
 Tech Stack: HTML | CSS | JS | MongoDB | Express
@@ -31,7 +31,7 @@ Tech Stack: HTML | CSS | JS | MongoDB | Express
 [GitHub Repository](https://github.com/vinceoct/Samplr)
 
 Walk Safe NYC
---------
+
 Web app to allow users to report incidents of street harassment on NYC, and view reports submitted by others. 
 
 Tech Stack: MongoDB | Express | React | Node.js
