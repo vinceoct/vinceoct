@@ -1,16 +1,16 @@
 I am a dynamic software engineer who blends technical prowess, creative expression, and exceptional customer service. Drawing from my experience as a musician, I bring a unique rhythm and passion to my work, developing innovative solutions that resonate with users. With a solid foundation in customer service, I prioritize understanding and meeting the unique needs of clients, ensuring their satisfaction throughout the development process. Through my innovative solutions and a flair for creativity, I construct software experiences that resonate with users, striking a perfect balance between functionality and user satisfaction.
 
 ## Tech Stack
-HTML
-CSS
-JavaScript
-React
-Node.js
-Express
-MongoDB with Mongoose
-Python
-Django
-Projects
+HTML |
+CSS |
+JavaScript |
+React |
+Node.js |
+Express |
+MongoDB |
+Python |
+Django 
+
 
 ## Projects
 
