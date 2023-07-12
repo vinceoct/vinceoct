@@ -16,25 +16,32 @@ Django
 
 ## [flŭd](https://flud.surge.sh/)
 
-Color based strategy/puzzle game built with vanilla JS
+<p align=center><img src='https://github.com/vinceoct/vinceoct/blob/main/flud.png' height=200px/></p>
 
-Tech Stack: HTML | CSS | JS
+<p align=center>Color based strategy/puzzle game built with vanilla JS</p>
 
-[GitHub Repository](https://github.com/vinceoct/flud)
+
+<p align=center>Tech Stack: HTML | CSS | JS </p>
+
+[GitHub Repository](https://github.com/vinceoct/flud) 
 
 ## [Samplr](https://samplr-production.up.railway.app/)
 
-App that allows users to sample different audio effects for bass guitar. 
+<p align=center><img src='https://github.com/vinceoct/vinceoct/blob/main/Samplr.png' height=200px/></p>
 
-Tech Stack: HTML | CSS | JS | MongoDB | Express
+<p align=center>App that allows users to sample different audio effects for bass guitar.</p> 
+
+<p align=center>Tech Stack: HTML | CSS | JS | MongoDB | Express</p>
 
 [GitHub Repository](https://github.com/vinceoct/Samplr)
 
 ## Walk Safe NYC
 
-Web app to allow users to report incidents of street harassment on NYC, and view reports submitted by others. 
+<p align=center><img src='https://github.com/vinceoct/vinceoct/blob/main/WalkSafeNYC.png' height=200px/></p>
 
-Tech Stack: MongoDB | Express | React | Node.js
+<p align=center>Web app to allow users to report incidents of street harassment on NYC, and view reports submitted by others.</p>
+
+<p align=center>Tech Stack: MongoDB | Express | React | Node.js</p>
 
 [GitHub Repository](https://github.com/vinceoct/walksafeNYC)
 
