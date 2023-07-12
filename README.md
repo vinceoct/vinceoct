@@ -1,6 +1,6 @@
 I am a dynamic software engineer who blends technical prowess, creative expression, and exceptional customer service. Drawing from my experience as a musician, I bring a unique rhythm and passion to my work, developing innovative solutions that resonate with users. With a solid foundation in customer service, I prioritize understanding and meeting the unique needs of clients, ensuring their satisfaction throughout the development process. Through my innovative solutions and a flair for creativity, I construct software experiences that resonate with users, striking a perfect balance between functionality and user satisfaction.
 
-## Tech Stack
+# Tech Stack
 HTML |
 CSS |
 JavaScript |
@@ -12,9 +12,9 @@ Python |
 Django 
 
 
-## Projects
+# Projects
 
-flŭd 
+## [flŭd](https://flud.surge.sh/)
 
 Color based strategy/puzzle game built with vanilla JS
 
@@ -22,7 +22,7 @@ Tech Stack: HTML | CSS | JS
 
 [GitHub Repository](https://github.com/vinceoct/flud)
 
-Samplr
+## [Samplr](https://samplr-production.up.railway.app/)
 
 App that allows users to sample different audio effects for bass guitar. 
 
@@ -30,7 +30,7 @@ Tech Stack: HTML | CSS | JS | MongoDB | Express
 
 [GitHub Repository](https://github.com/vinceoct/Samplr)
 
-Walk Safe NYC
+## Walk Safe NYC
 
 Web app to allow users to report incidents of street harassment on NYC, and view reports submitted by others. 
 
